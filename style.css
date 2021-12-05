@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: white;
+}
+
+#tentang {
+    background-color: skyblue;
+}
+
+#daftarjurusan {
+    background-color: white;
+}
+
+#footer {
+    background-color: slateblue;
+    padding: 5rem;
+}
+
+#section {
+    padding-top: 5rem;
+}
+
+#kontak {
+    padding-top: 3rem;
+    background-color: cyan;
+}
